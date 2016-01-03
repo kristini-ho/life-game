@@ -8,3 +8,5 @@ Users can draw on the grid in any color with the mouse, and erase what they drew
 If the GUI is in animation mode, it will instantly incorporate the newly drawn cells into its generations of life.
 
 File to run is LifeGUI (extends Life). 
+In progress: open/save images functions. Allow users to save a generation of life as an image,
+or open up an image as the first generation of life.
